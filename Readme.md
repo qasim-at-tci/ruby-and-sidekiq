@@ -5,6 +5,6 @@ In the terminal,
 * Run sidekiq -r ./por.rb
 * Run irb -r ./por.rb
 
-> In IRB session, call PlainOldRuby.perform_async() or PlainOldRuby.perform_async("Had a great nap", 10)
+> In IRB session, call PlainOldRuby.perform_async() or PlainOldRuby.perform_async("Had a great nap", 10) .....
 
 Ciao!
