@@ -1,4 +1,4 @@
-# Plain Old Ruby Sidekiq Demo.
+# Plain Old Ruby Sidekiq Demo :crossed_fingers:
 
 _Ruby version used **2.7.4** `rvm install 2.7.4`_
 
