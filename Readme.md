@@ -1,5 +1,7 @@
 # Plain Old Ruby Sidekiq Demo.
 
+_Ruby version used 2.7.4 `rvm install 2.7.4`_
+
 In the terminal,
 * `brew install redis` (If redis not installed already)
 * Run `redis-server`
