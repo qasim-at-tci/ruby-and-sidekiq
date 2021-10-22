@@ -6,6 +6,7 @@ In the terminal,
 * `brew install redis` (If redis not installed already)
 * Run `redis-server`
 * `gem install sidekiq`
+* `bundle install`
 * Run `sidekiq -r ./por.rb`
 * Run `irb -r ./por.rb`
 
